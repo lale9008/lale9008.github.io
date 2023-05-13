@@ -18,4 +18,4 @@ My GitHub page is http://github.com/lale9008.
 
 * Lab 12
 
-   Lab 12, part 2 was an absolute favorite because I was able to visually see a different way of coding, since I was able to create an animation which is more like a flipbook of colors. I have always been fascinated by flip books since even the most basic version of it is able to move and come alive being able to see some sort of story play out. I was able to write a code that makes colors move and change continuously in a loop.
+   Lab 12, part 1 was an absolute favorite because I was able to visually see a different way of coding, since I was able to create an animation which is more like a flipbook of colors. I have always been fascinated by flip books since even the most basic version of it is able to move and come alive being able to see some sort of story play out. I was able to write a code that makes colors move and change continuously in a loop.
